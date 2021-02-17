@@ -1,15 +1,13 @@
-## Movie recommander system
-This project is a project realized during the Openclassroom data scientist formation: 
-
-It is about building a movie recommander system.
+## IMDB database - Build a personalized movie recommender system
+This project is about building a movie recommender system based on the IMDB dataset. A few clusering  method are exposed and the K-means algorithm has been chosen to expose our solution: **building a personable movie recommender system**. 
 
 You will find in this project:
-  - The EDM notebook
-  - A research notebook toward finding a good recommandation system
-  - Slides to present the wotk that has been done. Video : https://youtu.be/k47at5Dl-Ag
-  
-  If you want to test the recommender https://best-recommender.herokuapp.com/recommend/1
-  The number is the id of the film, change it if you want to make another prediction.
-  
+  - An EDM notebook
+  - A research notebook -  **'Movie recommendation system study - Part 2'**: toward finding a personable recommendation system,  how to go beyond applying a simple black box solution to actually make the data fit the problem at hand. If you are looking for a way to improve your item to item recommendation system you can look at the section **"Improvement of the model"**. 
+  - The code to preprocess the data and run the model
+
+  If you want to test the recommender ti is exposed at the REST api :  https://best-recommender.herokuapp.com/recommend/1
+ **number = film_id**, change it if you want to make another prediction.
+
 
 
