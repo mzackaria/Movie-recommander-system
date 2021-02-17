@@ -7,6 +7,7 @@ You will find in this project:
   - The code to preprocess the data and run the model
 
   If you want to test the recommender ti is exposed at the REST api :  https://best-recommender.herokuapp.com/recommend/1
+
  **number = film_id**, change it if you want to make another prediction.
 
 
