@@ -67,5 +67,5 @@ https://best-recommender.herokuapp.com/recommend/1
 }
 ```
 
-![Pirates of the Caribbean: At World's End] https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/[5.jpg](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/5.jpg)
+![Pirates of the Caribbean: At World's End] https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/5.jpg  
 
