@@ -71,9 +71,9 @@ https://best-recommender.herokuapp.com/recommend/1
 
 ## Recommendation for "Pirates of the Caribbean: At World's End"
 
-![Pirates of the Caribbean: At World's End](/home/zmessai/Pictures/recommendation movie/1/download.jpeg)
+![Pirates of the Caribbean: At World's End](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/1.jpeg)
 
 
 
- ![image](/home/zmessai/Pictures/recommendation movie/1/images.jpeg)![images2](/home/zmessai/Pictures/recommendation movie/1/download (1).jpeg)![image3](/home/zmessai/Pictures/recommendation movie/1/Gods_of_Egypt_poster.jpg)![image4](/home/zmessai/Pictures/recommendation movie/1/Dungeons_Dragons_Wrath_of_the_Dragon_God-386421755-large.jpg)![image5](/home/zmessai/Pictures/recommendation movie/1/224c0357b7508743a3f31434b0ea946f.jpg)
+ ![image](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/2.jpeg)![images2](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/3.jpeg)![image3](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/4.jpg)![image4](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/5.jpg)![image5](https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/6.jpg)
 
