@@ -67,40 +67,7 @@ https://best-recommender.herokuapp.com/recommend/1
 }
 ```
 
-[Pirates of the Caribbean: At World's End]
+![Pirates of the Caribbean: At World's End]
 
-https://i.pinimg.com/originals/22/4c/03/224c0357b7508743a3f31434b0ea946f.jpg
-
-https://best-recommender.herokuapp.com/recommend/36
-
-```
-{
-  "film": {
-    "id": "36", 
-    "title": "Transformers: Revenge of the Fallen"
-  }, 
-  "results": [
-    {
-      "id": "654", 
-      "title": "The Matrix"
-    }, 
-    {
-      "id": "32", 
-      "title": "Iron Man 3"
-    }, 
-    {
-      "id": "1631", 
-      "title": "Star Trek V: The Final Frontier"
-    }, 
-    {
-      "id": "4009", 
-      "title": "The Watch"
-    }, 
-    {
-      "id": "1537", 
-      "title": "Doomsday"
-    }
-  ]
-}
-```
+https://github.com/mzackaria/Movie-recommander-system/blob/dev/images/1.jpeg
 
